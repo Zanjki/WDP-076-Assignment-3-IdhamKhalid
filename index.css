@@ -1,0 +1,76 @@
+body {
+    background-color: #DBDFEA;
+}
+
+.container {
+    width: 95%;
+    margin: auto;
+    background-color: #3a6cf7;
+    padding: 3%;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px #1c1d1f;
+    margin-top: 2%;
+
+}
+
+.card {
+    color: rgb(50, 50, 65);
+    max-width: flex;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0px 0px 10px #e6d114;
+    margin-bottom: 20px;
+    margin-top: 20%;
+    text-align: flex;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.card-negara {
+    text-align: left;
+    height: min-content;
+    position: left;
+    font-size: xx-large;
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#input-negara {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid aqua;
+    border-radius: 5px;
+}
+
+
+.container1 {
+    width: 95%;
+    text-align: center;
+    margin-bottom: 2%;
+    color: #526D82;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.card-title {
+    text-align: flex;
+    font-size: small;
+    color: #000000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#btn-change {
+    padding: 8px 16px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+
+#btn-change:hover {
+    background-color: rgba(65, 247, 95, 0.89);
+}
